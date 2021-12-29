@@ -46,7 +46,7 @@
 
       <div class="profile">
         <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">Vladislav Liu</a></h1>
+        <h1 class="text-light"><a href="index.html">Vladislav Bubkin</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="#" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
           <a href="#" class="telegram"><i class="bx bxl-telegram"></i></a>
@@ -70,7 +70,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
-      <h1>Vladislav Liu</h1>
+      <h1>Vladislav Bubkin</h1>
       <p>I'm <span class="typed" data-typed-items="Web Application Expert, Senior Mobile Developer, Blockchain Enginner"></span></p>
     </div>
   </section><!-- End Hero -->
@@ -83,7 +83,7 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>I am Vladislav Liu from Russia, as a senior full-stack developer have more than 7 years of experience in building high-quality Web & Mobile Development.</p>
+          <p>I am Vladislav Bubkin from Russia, as a senior full-stack developer have more than 7 years of experience in building high-quality Web & Mobile Development.</p>
         </div>
 
         <div class="row">
@@ -358,7 +358,7 @@ I'm flexible with my working hours, because I'm a fulltime freelancer. I'm avail
           <div class="col-lg-6" data-aos="fade-up">
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
-              <h4>Vladislav Liu</h4>
+              <h4>Vladislav Bubkin</h4>
               <p><em>Innovative and deadline-driven Fullstack developer with 7+ years of experience designing and developing user-centered web and mobile projects from initial concept to final, polished deliverable.</em></p>
             </div>
 
@@ -559,7 +559,7 @@ I'm flexible with my working hours, because I'm a fulltime freelancer. I'm avail
         &copy; Copyright <strong><span>cognetik group</span></strong>
       </div>
       <div class="credits">
-        Designed by <a href="https://bootstrapmade.com/">Vladislav Liu</a>
+        Designed by <a href="https://bootstrapmade.com/">Vladislav Bubkin</a>
       </div>
     </div>
   </footer><!-- End  Footer -->
