@@ -108,7 +108,7 @@
                 <ul>
                   <!-- <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li> -->
                   <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>uo0901576@gmail.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>io254487@gmail.com</span></li>
                 </ul>
               </div>
             </div>
@@ -525,7 +525,7 @@ I'm flexible with my working hours, because I'm a fulltime freelancer. I'm avail
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>uo0901576@gmail.com</p>
+                <p>io254487@gmail.com</p>
               </div>
               <div class="skype">
                 <i class="bi bi-skype"></i>
