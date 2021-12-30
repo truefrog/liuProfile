@@ -144,7 +144,7 @@ As a full-service provider of Web development and IT solutions, I see my custome
           <div class="col-lg-4 col-sm-12 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="count-box">
               <i class="bi bi-journal-richtext"></i>
-              <span data-purecounter-start="0" data-purecounter-end="123" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="23" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Projects</strong><br/> with good maintenance</p>
             </div>
           </div>
