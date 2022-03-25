@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>About Liu Xin</title>
+  <title>About Liu Xing</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -46,7 +46,7 @@
 
       <div class="profile">
         <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">Liu Xin</a></h1>
+        <h1 class="text-light"><a href="index.html">Liu Xing</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="#" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
           <a href="#" class="telegram"><i class="bx bxl-telegram"></i></a>
@@ -70,7 +70,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
-      <h1>Liu Xin</h1>
+      <h1>Liu Xing</h1>
       <p>I'm <span class="typed" data-typed-items="Web Application Expert, Senior Mobile Developer, Blockchain Enginner"></span></p>
     </div>
   </section><!-- End Hero -->
@@ -83,7 +83,7 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>I am Liu Xin from Russia, as a senior full-stack developer have more than 7 years of experience in building high-quality Web & Mobile Development.</p>
+          <p>I am Liu Xingg from Hong Kong, as a senior full-stack developer have more than 7 years of experience in building high-quality Web & Mobile Development.</p>
         </div>
 
         <div class="row">
@@ -100,7 +100,7 @@
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>28 Jul 1993</span></li>
                   <!-- <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li> -->
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Krasnodar, Russian Federation</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Pak Kok Kau, Hong Kong</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
               </div>
@@ -358,7 +358,7 @@ I'm flexible with my working hours, because I'm a fulltime freelancer. I'm avail
           <div class="col-lg-6" data-aos="fade-up">
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
-              <h4>Liu Xin</h4>
+              <h4>Liu Xing</h4>
               <p><em>Innovative and deadline-driven Fullstack developer with 7+ years of experience designing and developing user-centered web and mobile projects from initial concept to final, polished deliverable.</em></p>
             </div>
 
@@ -366,8 +366,8 @@ I'm flexible with my working hours, because I'm a fulltime freelancer. I'm avail
             <div class="resume-item">
               <h4>Bachelor of Computer Science</h4>
               <h5>2012 - 2014</h5>
-              <p><em>Russian New University</em></p>
-              <p>Russian New University (RosNOU) is one of the oldest private (non-state) educational institutions of higher professional education in Russia. It was established in 1991 with the purpose of meeting personality needs in intellectual, cultural and moral development, as well as meeting social and economic needs in highly qualified specialists. Today RosNOU is the leading non-state higher education institution in Russia. Its strategic goal and mission in the academic world is to create and implement higher vocational education programmes based on advanced achievements in science and technologies at the highest level of the best world universities.</p>
+              <p><em>The Hong Kong University of Science and Technology</em></p>
+              <p>The Hong Kong University of Science and Technology is a public research university in Clear Water Bay Peninsula, New Territories, Hong Kong. Founded in 1991 by the British Hong Kong Government, it was the territory's third institution to be granted university status.</p>
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
@@ -519,7 +519,7 @@ I'm flexible with my working hours, because I'm a fulltime freelancer. I'm avail
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>Pereulok Shalyapina, Krasnodar, Krasnodarskiy kray, Russia, 350072</p>
+                <p>Pak Kok Kau, Tsuen, Hong Kong, China 999077</p>
               </div>
 
               <div class="email">
@@ -542,7 +542,7 @@ I'm flexible with my working hours, because I'm a fulltime freelancer. I'm avail
           </div>
 
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2817.046367136434!2d39.00165111493537!3d45.0848528666972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40f045b50e044ddb%3A0x9078cb0a68bba1e3!2sPereulok%20Shalyapina%2C%20Krasnodar%2C%20Krasnodarskiy%20kray%2C%20Russia%2C%20350072!5e0!3m2!1sen!2sus!4v1639411842782!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            <iframe src="https://www.google.com/maps/embed?<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29545.020634457513!2d114.09595338003244!3d22.235237712859355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3401556eb9df50b9%3A0x4b5fe29c5ba4db46!2sPak%20Kok%20Kau%20Tsuen!5e0!3m2!1sen!2shk!4v1648177071778!5m2!1sen!2shk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
           </div>
 
         </div>
@@ -559,7 +559,7 @@ I'm flexible with my working hours, because I'm a fulltime freelancer. I'm avail
         &copy; Copyright <strong><span>cognetik group</span></strong>
       </div>
       <div class="credits">
-        Designed by <a href="https://bootstrapmade.com/">Liu Xin</a>
+        Designed by <a href="https://bootstrapmade.com/">Liu Xing</a>
       </div>
     </div>
   </footer><!-- End  Footer -->
